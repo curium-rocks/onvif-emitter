@@ -1,4 +1,4 @@
-name: ONVIF Emitter Transceiver CI
+name: ONVIF Emitter CI
 on:
   push:
     branches:
