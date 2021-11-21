@@ -70,7 +70,7 @@
     },
     "homepage": "https://github.com/curium-rocks/onvif-emitter#readme",
     "dependencies": {
-      "@curium.rocks/data-emitter-base": "^0.1.1-alpha.41",
+      "@curium.rocks/data-emitter-base": "^0.1.1-alpha.41"
     }
-  }
+}
   
